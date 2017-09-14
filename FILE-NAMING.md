@@ -6,8 +6,8 @@
 
 ## Folder Structure
 YEAR-NUM-PROJECT-NAME  
-|  
-|- 00-assets                      # Documentation files (alternatively `doc`)
+|
+|- 00-assets  
 |   |- 00-logos  
 |   |- 01-fonts  
 |- 01-files  
@@ -20,3 +20,13 @@ YEAR-NUM-PROJECT-NAME
 |   |- 03-wireframes  
 |- 04-prototypes  
 |- 05-documentation  
+
+.
+├── ...
+├── docs                    # Documentation files (alternatively `doc`)  
+│   ├── TOC.md              # Table of contents  
+│   ├── faq.md              # Frequently asked questions  
+│   ├── misc.md             # Miscellaneous information  
+│   ├── usage.md            # Getting started guide  
+│   └── ...                 # etc.  
+└── ...
