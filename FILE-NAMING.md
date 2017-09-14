@@ -6,7 +6,7 @@
 
 ## Folder Structure
 YEAR-NUM-PROJECT-NAME  
-|
+|  
 |- 00-assets                      # Documentation files (alternatively `doc`)
 |   |- 00-logos  
 |   |- 01-fonts  
