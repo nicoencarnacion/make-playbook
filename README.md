@@ -2,6 +2,12 @@
 
 ## Process Outline
 
+  - Design Polish
+
+    Things to consider in design polish:
+      1. 8px system. Design elements must follow the 8px spacing and size system.
+      2. State design of every feature or pages (i.e. Create, Delete, Update etc)
+
 ## File Naming and Folder Structure
 
 ## Sketch
@@ -31,7 +37,7 @@
   2. Layer
     - Layers must be in group folder
 
-  3. Components 
+  3. Components
     - For text with various color states (i.e. pressed, hover, active etc), simply add color fills that corresponds to each state instead of creating duplicates.
     - Use lower case for component names
 
