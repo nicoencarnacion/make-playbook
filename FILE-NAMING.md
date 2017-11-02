@@ -6,7 +6,7 @@
 
 ## Layer Names
 - **_00-artboard-name_** - Artboard names must have numbers as prefixes. The number depends on the group where the Artboard belongs to.
-- **_component-name / modifier_** or **_Symbol Name / Modifier_** - Symbol/Component naming (e.g. Button / Blue / Big)
+- **_component-name / modifier_** or **_symbol name / modifier_** - Symbol/Component naming (e.g. Button / Blue / Big)
 - **_group-name_** - Group names (e.g. news-grid)
 - **_name_** - Children names (e.g. card)
 
