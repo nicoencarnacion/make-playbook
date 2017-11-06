@@ -13,5 +13,4 @@
 ## General
 - Arrangement groups from top to bottom, left to right
 - Group everything on a Frame/Artboard
-- In Sketch, group related Artboards into Pages
-- In Figma, group Frames using locked shapes with labels
+- Group related Artboards/Frames into Pages
