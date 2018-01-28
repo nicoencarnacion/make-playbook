@@ -17,7 +17,7 @@ Sketch app is our design software used in designing websites, mobile apps, web a
 - Elements and Component pages must be in Camel case format
 - Alphabetically arrange pages in symbols
 - Symbols must be in lowercase format
-- Use underscores “_” to join words in symbol’s modifiers (i.e. button / light_blue
+- Use underscores “_” to join words in symbol’s modifiers (i.e. button / light_blue)
 - Use forward slash “ / “ as separator (i.e. button / primary / blue) 
 - Use “Elements or Component / Name / Modifier” format for naming symbols (i.e. data / pair, data / single, field / input / empty)
 -  For symbols with mobile and desktop design, use “Elements or Component / Mobile or Desktop / Modifier” format
